@@ -1,0 +1,14 @@
+{
+  "n_cells": 3000,
+  "n_genes": 800,
+  "n_cell_types": 6,
+  "n_batches": 2,
+  "clustering_ARI_before_correction": 0.2892,
+  "clustering_ARI_after_correction": 0.9968,
+  "batch_silhouette_before": 0.1773,
+  "batch_silhouette_after": -0.0003,
+  "celltype_classifier_accuracy": 0.996,
+  "celltype_classifier_macroF1": 0.996,
+  "note": "batch_silhouette closer to 0 = batches better mixed; ARI closer to 1 = clusters match true cell types",
+  "seed": 0
+}

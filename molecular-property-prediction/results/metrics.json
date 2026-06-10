@@ -1,0 +1,13 @@
+{
+  "task": "regression: predict Crippen logP from Morgan fingerprints",
+  "n_molecules": 600,
+  "n_features": 2048,
+  "n_train": 480,
+  "n_test": 120,
+  "test_R2": 0.8443,
+  "test_RMSE_logP_units": 0.7007,
+  "cv5_R2_mean": 0.7877,
+  "cv5_R2_std": 0.0437,
+  "model": "RandomForestRegressor(n_estimators=300)",
+  "seed": 42
+}
