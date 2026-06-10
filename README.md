@@ -3,8 +3,7 @@
 A small portfolio of **AI-for-Science** experiments, bridging a quant / high-dimensional
 predictive-modeling background into computational drug discovery and cell biology.
 
-> 这是一个「投名状」代码仓库:把高维预测建模 + 高并发工程的能力,迁移到 AI 制药 / 计算生物。
-> 配合 Obsidian 笔记 `未来发展计划.md`(计划 4)与 `AI-for-Science 教授名单.md` 使用。
+
 
 ## Projects
 
